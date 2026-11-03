@@ -1,0 +1,10 @@
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+.build/
+.swiftpm/
+
+# Local Claude Code skills (third-party, not part of Hush)
+.claude/
+skills-lock.json

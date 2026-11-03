@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "Hush for YouTube",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "Hides YouTube ads and skips video ads automatically.",
+        "description": "Description of what the extension does."
+    }
+}
